@@ -20,7 +20,6 @@ This beautifully simple IOS app allows you to put all of your home shopping need
 ![Login Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/login.jpg)
 ![Register Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/register.jpg)
 ![Categories Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/categories.jpg)
-![Items Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/items.jpg)
 ![Item Selected Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/items_select.jpg)
 ![Shopping List Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/shopping_list.jpg)
 ![Shopping List Item Deleted Screen](https://github.com/DaniGlass/OneStopShop/blob/master/lib/screenshots/shopping_list_delete.jpg)
